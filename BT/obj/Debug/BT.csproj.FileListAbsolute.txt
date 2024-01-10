@@ -1,0 +1,7 @@
+C:\Users\bader\source\repos\BT\BT\bin\Debug\BT.exe.config
+C:\Users\bader\source\repos\BT\BT\bin\Debug\BT.exe
+C:\Users\bader\source\repos\BT\BT\bin\Debug\BT.pdb
+C:\Users\bader\source\repos\BT\BT\obj\Debug\BT.csproj.AssemblyReference.cache
+C:\Users\bader\source\repos\BT\BT\obj\Debug\BT.csproj.CoreCompileInputs.cache
+C:\Users\bader\source\repos\BT\BT\obj\Debug\BT.exe
+C:\Users\bader\source\repos\BT\BT\obj\Debug\BT.pdb
